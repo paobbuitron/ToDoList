@@ -13,6 +13,7 @@
 		3A3AEABB286A3D7E0066854B /* ToDoList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3A3AEAB9286A3D7E0066854B /* ToDoList.xcdatamodeld */; };
 		3A3AEABD286A3D810066854B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A3AEABC286A3D810066854B /* Assets.xcassets */; };
 		3A3AEAC0286A3D810066854B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A3AEABE286A3D810066854B /* LaunchScreen.storyboard */; };
+		3A3AEAC8286B599F0066854B /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3AEAC7286B599F0066854B /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3A3AEABC286A3D810066854B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A3AEABF286A3D810066854B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A3AEAC1286A3D810066854B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A3AEAC7286B599F0066854B /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3A3AEAB0286A3D7E0066854B /* AppDelegate.swift */,
 				3A3AEAB2286A3D7E0066854B /* SceneDelegate.swift */,
 				3A3AEAB6286A3D7E0066854B /* Main.storyboard */,
+				3A3AEAC7286B599F0066854B /* ToDo.swift */,
 				3A3AEABC286A3D810066854B /* Assets.xcassets */,
 				3A3AEABE286A3D810066854B /* LaunchScreen.storyboard */,
 				3A3AEAC1286A3D810066854B /* Info.plist */,
@@ -141,6 +144,7 @@
 				3A3AEAB1286A3D7E0066854B /* AppDelegate.swift in Sources */,
 				3A3AEAB3286A3D7E0066854B /* SceneDelegate.swift in Sources */,
 				3A3AEABB286A3D7E0066854B /* ToDoList.xcdatamodeld in Sources */,
+				3A3AEAC8286B599F0066854B /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
